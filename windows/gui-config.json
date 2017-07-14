@@ -1,0 +1,27 @@
+{
+"configs" : [
+  {
+"server" : "vipss.info",
+"server_port" : 443,
+"password" : "vipheyue",
+"method" : "aes-256-cfb",
+"remarks" : "免费账户1"}
+,
+  {
+"server" : "23.247.25.237",
+"server_port" : 9001,
+"password" : "fuckgfw1234",
+"method" : "aes-256-cfb",
+"remarks" : "2"}
+
+],
+"strategy" : null,
+"index" : 1,
+"global" : false,
+"enabled" : true,
+"shareOverLan" : false,
+"isDefault" : false,
+"localPort" : 1080,
+"pacUrl" : null,
+"useOnlinePac" : false,
+"availabilityStatistics" : false}
